@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working as a Associate Software Developer @Calibraint
+- 🌱 I’m currently honing my skills in Java.
 <!--
 **gokul656/gokul656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
