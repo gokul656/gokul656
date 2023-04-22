@@ -1,6 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working as a Associate Software Developer @Calibraint
-- 🌱 I’m currently honing my skills in Java.
+- 🏢 Working as a Associate Software Developer <a href="https://calibraint.com">@Calibraint</a>
+- 🌱 Currently developing microservices with Spring Boot
+- 💻 Exploring about System designs
+- 🚀 Learning Go
 <!--
 **gokul656/gokul656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
