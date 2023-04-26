@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 - 🏢 Working as a Associate Software Developer <a href="https://calibraint.com">@Calibraint</a>
 - 🌱 Currently developing microservices with Spring Boot
 - 💻 Exploring about System designs
