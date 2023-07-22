@@ -1,7 +1,7 @@
-### Hey there 👋
-- 🏢 Working as a Associate Software Developer <a href="https://calibraint.com">@Calibraint</a>
-- 🌱 Currently developing microservices with Spring Boot
-- 💻 Exploring about System designs
+### Hey there ✌🏽
+- ⚡ My Crime is that of **Curiosity**
+- 🌱 Developing Microservices with Spring Boot
+- 🔭 Exploring System designs
 - 🚀 Learning Go
 <!--
 **gokul656/gokul656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
