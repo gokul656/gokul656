@@ -4,7 +4,7 @@
 - 🔭 Exploring System designs
 - 🚀 Learning Go
 - 💬 Interested in discussing distributed systems
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gokulakrishnan-rajasekaran-4a670516b/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gokulakrishnan-rajasekaran/)
 <!--
 **gokul656/gokul656** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
