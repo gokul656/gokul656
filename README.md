@@ -2,7 +2,7 @@
 - ⚡ My Crime is that of **Curiosity**
 - 🌱 Developing Microservices with Spring Boot
 - 🔭 Exploring System designs
-- 🚀 Learning Go
+- 🚀 Learning Cryptography
 - 💬 Interested in discussing distributed systems
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gokulakrishnan-rajasekaran/)
 <!--
